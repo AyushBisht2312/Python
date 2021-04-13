@@ -1,0 +1,20 @@
+Code 1:
+for number in range (2000, 3201):
+    if (number % 7==0 and number %5!=0):
+        print(number, end=',')
+
+Code 2: 
+
+first_name= input("Enter the first name")
+last_name= input("Enter the last name")
+print(first_name[::-1],last_name[::-1])
+
+
+Code 3: 
+D=12
+r=D/2
+volume= (4/3)* 3.14 * r**3
+print(" The volume of sphere is",volume)        
+                
+        
+        
